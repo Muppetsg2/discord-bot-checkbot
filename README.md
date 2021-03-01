@@ -4,7 +4,8 @@ Jak zacząć pracę z botem?
 1. Wpisać imiona i nazwiska osób w klasie do odpowiednich numerów do pliku lista.json
 
 2. Wpisać plan lekcji cały do pliku plan.json. Jest on potrzebny do działania komend c!lekcje i c!dmlekcje
-3. Uczniowie na serwerze powinni mieć pseudonimy zaczynające sie numerami od 01* do 26![image](https://user-images.githubusercontent.com/54802675/109497026-bd514a80-7a91-11eb-985f-61b86e1761c4.png)
+3. Uczniowie na serwerze powinni mieć pseudonimy zaczynające sie numerami od 01* do 26
+![image](https://user-images.githubusercontent.com/54802675/109497026-bd514a80-7a91-11eb-985f-61b86e1761c4.png)
 
 4. By komenda c!invite działała należy wpisać do pliku botconfig.json w miejscu "inviteLink" link do zaproszenia bota
 5. Ostatnim krokiem by wszystko działało jest wpisanie komedny c!setUser na serwerze i oznaczenie roli którą posiada każdy uczeń, a nie posiada jej żaden nauczyciel.
