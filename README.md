@@ -1,4 +1,4 @@
-# discor-bot-checkbot
+# discord-bot-checkbot
 Jak zacząć pracę z botem?
 
 1. Wpisać imiona i nazwiska osób w klasie do odpowiednich numerów do pliku lista.json
