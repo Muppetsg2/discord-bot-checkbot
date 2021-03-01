@@ -1,0 +1,10 @@
+discord
+json
+pytz
+asyncio
+calendar
+time
+datetime
+platform
+psutil
+discord.ext

@@ -1,0 +1,50 @@
+{
+    "Monday":{
+        "8:15-9:00": "Matematyka",
+        "9:15-10:00": "Matematyka",
+        "10:15-11:00": "Fizyka[W]/English[S]",
+        "11:15-12:00": "Biofizyka",
+        "12:15-13:00": "English[W]/Fizyka[S]",
+        "13:15-14:00": "English[W]/English[S]",
+        "14:15-15:00": "Religia"
+    },
+    "Tuesday":{
+        "8:15-9:00": "Matematyka",
+        "9:15-10:00": "Język Polski",
+        "10:15-11:00": "Fizyka",
+        "11:15-12:00": "Français[Z]/Français[G]",
+        "12:15-13:00": "Matematyka",
+        "13:15-14:00": "English[W]/English[S]",
+        "14:15-15:00": "Fizyka",
+        "15:05-15:50": "WF ⚽"
+    },
+    "Wednesday":{
+        "8:15-9:00": "Matematyka",
+        "9:15-10:00": "English[W]/English[S]",
+        "10:15-11:00": "Język Polski",
+        "11:15-12:00": "Matematyka",
+        "12:15-13:00": "Biofizyka",
+        "13:15-14:00": "Biofizyka",
+        "14:15-15:00": "English[W]/English[S]",
+        "15:05-15:50": "His"
+    },
+    "Thursday":{
+        "8:15-9:00": "His",
+        "9:15-10:00": "Français[Z]/Français[G]",
+        "10:15-11:00": "Taniec 💃",
+        "11:15-12:00": "Taniec 💃",
+        "12:15-13:00": "Język Polski",
+        "13:15-14:00": "Język Polski"
+    },
+    "Friday":{
+        "11:15-12:00": "Godzina Wychowawcza",
+        "12:15-13:00": "Matematyka",
+        "13:15-14:00": "Fizyka"
+    },
+    "Saturday":{
+        "8:00-23:00": "Vibing 🎶"
+    },
+    "Sunday":{
+        "8:00-23:00": "Vibing 🎶"
+    }
+}
